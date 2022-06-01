@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @CarsonPemble
-- 👀 I’m interested in programming simple games and automating random tasks.
-- 🌱 I’m currently learning cypress component testing and advanced raspberry pi projects.
-- 💞️ I’m looking to collaborate on crypto or gaming projects that peek my intrest.
-- 📫 How to reach me looks at links below: <br>
+👋 Hi, I’m @CarsonPemble <br>
+👀 I’m interested in programming simple games and automating random tasks. <br>
+🌱 I’m currently learning cypress component testing and advanced raspberry pi projects. <br>
+💞️ I’m looking to collaborate on crypto or gaming projects that peek my intrest. <br>
+📫 How to reach me looks at links below: <br>
 https://www.linkedin.com/in/carson-pemble/ <br>
 https://github.com/PembleC <br>
 https://eecs.oregonstate.edu/project-showcase/profile/?id=55d7kkX3fbd7vQge <br>
